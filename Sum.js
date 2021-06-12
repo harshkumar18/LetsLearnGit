@@ -7,3 +7,4 @@ var sum = (a, b) => {
 }
 
 console.log(sum(num1, num2));
+console.log("Hello JavaScript");
